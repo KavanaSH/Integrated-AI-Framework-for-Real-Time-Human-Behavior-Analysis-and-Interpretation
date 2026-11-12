@@ -302,7 +302,10 @@ It also calculates an aggregate anomaly rate for the processed video.
 
 This project was developed in the context of computer vision-based human behaviour analysis, with research experience involving surveillance datasets such as CHAD and UCF-Crime.
 
-## Author
+## Authors
 
-Developed as part of a research internship project focused on AI-powered human behaviour analysis and anomaly detection.
-by Kavana H ,Anshul RS, Sharvari V Ram
+Developed with love and teamwork as part of a research internship project focused on AI-powered human behaviour analysis and anomaly detection.
+
+**By:** Kavana H, Anshul RS & Sharvari V Ram
+
+
